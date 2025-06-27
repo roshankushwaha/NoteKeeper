@@ -74,11 +74,3 @@ DB_NAME=notekeeper
 JWT_SECRET=supersecret
 
 ---
-
-## ✅ Next Steps:
-
-1. Create a repo: `NoteKeeper-API`
-2. Add this as `README.md`
-3. Initialize the NestJS app:
-```bash
-nest new notekeeper-api
